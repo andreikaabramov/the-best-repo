@@ -14,7 +14,7 @@ background: #2C1616;
     position:absolute;
     width: 66px;
     height: 32px;
-    left: 1490px;
+    left: 1190px;
     top: 51px;
     
     font-family: 'Kreon';
@@ -30,7 +30,7 @@ background: #2C1616;
 position: absolute;
 width: 127px;
 height: 3px;
-left: 1590px;
+left: 1290px;
 top: 51px;
 
 font-family: 'Kreon';
@@ -48,7 +48,7 @@ color: #FFFFFF;
 position: absolute;
 width: 195px;
 height: 32px;
-left: 1750px;
+left: 1430px;
 top: 51px;
 
 font-family: 'Kreon';
@@ -71,7 +71,7 @@ nav {
 
 .img-nav {
     position: absolute;
-    left: 1970px;
+    left: 1660px;
     top: 40px;
 }
 
@@ -104,7 +104,7 @@ h1 {
 
 .line1 {
     position: absolute;
-    width: 2100.01px;
+    width: 1730.01px;
     height: 0px;
     left: 0px;
     top: 110.5px;
@@ -125,7 +125,7 @@ h1 {
 
 .line2 {
 position: absolute;
-width: 1990.01px;
+width: 1620.01px;
 height: 0px;
 left: 110px;
 top: 442.12px;
@@ -176,14 +176,14 @@ color: #FFFFFF;
 position: absolute;
 width: 412px;
 height: 328px;
-left: 1700px;
+left: 1330px;
 top: 114px;
 }
 .img2 {
 position: absolute;
 width: 515px;
 height: 338px;
-left: 1300px;
+left: 1000px;
 top: 100px;
 
 }
@@ -349,7 +349,7 @@ color: #FFFFFF;
 
 .text3 {
     position: absolute;
-    width: 1240px;
+    width: 300px;
     height: 50px;
     left: 1100px;
     top: 1403px;
@@ -422,7 +422,7 @@ line-height: 25px;
 
 .img-foot {
 position: absolute;
-width: 2200px;
+width: 1750px;
 height: 194px;
 left: 0px;
 top: 2100px;
@@ -434,7 +434,7 @@ background: #1C0E0E;
 .z1 {
     
 position: absolute;
-width: 1393px;
+width: 500px;
 height: 50px;
 left: 892px;
 top: 2100px;
@@ -452,7 +452,7 @@ color: #FFFFFF;
 .z2 {
    
 position: absolute;
-width: 1252px;
+width: 500px;
 height: 25px;
 left: 892px;
 top: 2150px;
@@ -509,6 +509,6 @@ top: 2075px;
 position: absolute;
 width: 250px;
 height: 216px;
-left: 1600px;
+left: 1500px;
 top: 2075px;
 }
